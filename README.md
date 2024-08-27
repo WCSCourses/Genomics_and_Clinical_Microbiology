@@ -72,7 +72,7 @@ Topics included in practical classes, demonstrations, and/or lectures:
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
 | 14–19 January 2024  | [Genomics and Clinical Microbiology 2024](https://github.com/WCSCourses/GCM24) | Wellcome Genome Campus, Hinxton| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13380377.svg)](https://doi.org/10.5281/zenodo.13380377) |
-| 2–7 February 2025 | [Genomics and Clinical Microbiology 2025](https://github.com/WCSCourses/) | Wellcome Genome Campus, Hinxton|Citation DOI |
+| 2–7 February 2025 | [Genomics and Clinical Microbiology 2025](https://github.com/WCSCourses/Genomics_and_Clinical_Microbiology_2025) | Wellcome Genome Campus, Hinxton|Citation DOI |
 
 ******
 
