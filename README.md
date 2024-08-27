@@ -1,6 +1,6 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Genomics and Clinical Microbiology 2024
+# Genomics and Clinical Microbiology 
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
@@ -26,7 +26,6 @@ This course is designed for clinical scientists, specialist registrars or consul
 
 ## CPD Accreditation
 The course has been approved for 43 CPD credits by the Royal College of Pathologists.
-
 
 ## Learning outcomes
 
